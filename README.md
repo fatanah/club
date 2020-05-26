@@ -6,21 +6,21 @@ Introduction
 
      Firstly, our target users are the members of the ExCESS Club. Our system can be divided into 5 module. The first module is about the registration. The member of the club are registered  manually previously. Therefore, this system will allow students to register through online system to be a new member and the data will automatically save in the database. The second  module of our system is to view the activity in the club. Students can also access the system to search and view the activities they want. Next module is evaluation. An admin can evaluate the member performance for the activity in the club by giving the rating for the best performance among the members. Other than that is activity module where member club can add new activity and date for upcoming event or activity. Last module is income and expense which is  to calculate for overall cost for activity held in the club. From the calculation of the cost, admin of the club can  planning the strategy and make a report for future plan of the club.
 
-<b>Admin:
+<b>Admin:</b>
 
 Username: Admin
 
 Password: admin
 
 
-Member Club:
+<b>Member Club:</b>
 
 Username: brigula
 
 Password: brigula
 
 
-Advisor:
+<b>Advisor:</b>
 
 Username: Cathy
 
