@@ -9,15 +9,18 @@ Introduction
 Admin:
 
 Username: Admin
+
 Password: admin
 
 Member Club:
 
 Username: brigula
+
 Password: brigula
 
 Advisor:
 
 Username: Cathy
+
 Password: Cathy
 
